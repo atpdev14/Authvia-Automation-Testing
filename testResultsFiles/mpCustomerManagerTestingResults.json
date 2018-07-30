@@ -1,0 +1,19 @@
+{
+  "Date": "2018-07-18T01:12:46.302Z",
+  "Create Customer: Id and Email": true,
+  "Create Customer: Id, Phone, and Email": true,
+  "Create Customer: Id Only": true,
+  "Account Deleted": true,
+  "Payable Should Pass": true,
+  "Payable Should Fail": false
+}
+
+{
+  "Date": "2018-07-30T17:50:04.277Z",
+  "Create Customer: Id and Email": true,
+  "Create Customer: Id, Phone, and Email": true,
+  "Create Customer: Id Only": true,
+  "Account Deleted": true,
+  "Payable Should Pass": true,
+  "Payable Should Fail": false
+}
