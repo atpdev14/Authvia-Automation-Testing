@@ -36,10 +36,10 @@ var exports = module.exports = {};
 	var testResults = {};
 	var loginTestResultsPath = "./testResultsFiles/mpCustomerManagerTestingResults.json"; 
 	var date = new Date();
-	var myMerchantEmail = "tyler@authvia.com";
+	var myMerchantEmail;
 	var myEmail;
 	var myName;
-	var secondaryEmail = "tyler@pay2daysolutions.com";
+	var secondaryEmail;
 	var myPassword;
 	var myPhoneNumber;
 	var secondaryPhoneNumber;
@@ -65,14 +65,12 @@ exports.getCredentials = function(){
 		{
 			type: 'input',
 			name: 'username',
-			password: 'Enter your username: ',
-			default: 'tyler@authvia.com'
+			password: 'Enter your username: '
 		},
 		{
 			type: 'input',
 			name: 'password',
-			message: 'Please enter your password: ',
-			default: 'buttercup'
+			message: 'Please enter your password: '
 		}
 	]).then(function(response){
 		usernameLogin = response.username;

@@ -38,26 +38,22 @@ exports.getUserInfo = async function(){
 		{
 			type: 'input',
 			name: 'name',
-			message: "Please enter your name: ",
-			default: "Tyler Proctor"
+			message: "Please enter your name: "
 		},
 		{
 			type: 'input',
 			name: 'email',
-			message: "Please enter your email address: ",
-			default: "tyler@authvia.com"
+			message: "Please enter your email address: "
 		},
 		{
 			type: 'input',
 			name: 'password',
-			message: "Please create a password: ",
-			default: "buttercup"
+			message: "Please create a password: "
 		},
 		{
 			type: 'input',
 			name: 'phoneNumber',
-			message: "Please enter your phone number: ",
-			default: "3086602288"
+			message: "Please enter your phone number: "
 		}
 	]).then(function(response){
 		userInfo.name = response.name;

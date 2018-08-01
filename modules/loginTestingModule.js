@@ -41,14 +41,12 @@ exports.getCredentials = function(){
 		{
 			type: 'input',
 			name: 'username',
-			password: 'Enter your username: ',
-			default: 'tyler@authvia.com'
+			password: 'Enter your username: '
 		},
 		{
 			type: 'input',
 			name: 'password',
-			message: 'Please enter your password: ',
-			default: 'buttercup'
+			message: 'Please enter your password: '
 		}
 	]).then(function(response){
 		usernameLogin = response.username;

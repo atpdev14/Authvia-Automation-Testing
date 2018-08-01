@@ -28,3 +28,13 @@
   "Payable Should Pass": true,
   "Payable Should Fail": false
 }
+
+{
+  "Date": "2018-08-01T17:30:52.751Z",
+  "Create Customer: Id and Email": true,
+  "Create Customer: Id, Phone, and Email": true,
+  "Create Customer: Id Only": true,
+  "Account Deleted": true,
+  "Payable Should Pass": true,
+  "Payable Should Fail": false
+}
