@@ -2,8 +2,11 @@
   "name": "authvia-automation-testing",
   "version": "0.0.0",
   "repository": "git@github.com:atpdev14/Authvia-Automation-Testing.git",
+  "main": "index.js",
+  "description": "",
   "dependencies": {
     "chromedriver": "^2.38.3",
+    "inquirer": "^6.0.0",
     "npm": "^6.0.1",
     "selenium-webdriver": "^4.0.0-alpha.1",
     "unexposed": "^1.0.0"

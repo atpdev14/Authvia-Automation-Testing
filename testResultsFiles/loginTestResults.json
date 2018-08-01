@@ -1,7 +1,6 @@
 
-
 {
-  "Date": "2018-07-30T17:27:34.588Z",
+  "Date": "2018-07-31T21:11:30.333Z",
   "Logo Image present?": true,
   "Forgot Password Button present?": true,
   "Username Input present?": true,
@@ -15,7 +14,35 @@
 }
 
 {
-  "Date": "2018-07-30T19:29:24.321Z",
+  "Date": "2018-07-31T21:25:36.524Z",
+  "Logo Image present?": true,
+  "Forgot Password Button present?": true,
+  "Username Input present?": true,
+  "Password Input present?": true,
+  "Element Text": "SIGN IN",
+  "Element Color": "rgba(255, 255, 255, 1)",
+  "Login Test- Correct Login": true,
+  "Login Test- Capitalized Username": true,
+  "Login Test- Wrong Username": false,
+  "Login Test- Incorrect Password": false
+}
+
+{
+  "Date": "2018-07-31T23:27:58.635Z",
+  "Logo Image present?": true,
+  "Forgot Password Button present?": true,
+  "Username Input present?": true,
+  "Password Input present?": true,
+  "Element Text": "SIGN IN",
+  "Element Color": "rgba(255, 255, 255, 1)",
+  "Login Test- Correct Login": true,
+  "Login Test- Capitalized Username": true,
+  "Login Test- Wrong Username": false,
+  "Login Test- Incorrect Password": false
+}
+
+{
+  "Date": "2018-07-31T23:40:47.573Z",
   "Logo Image present?": true,
   "Forgot Password Button present?": true,
   "Username Input present?": true,
